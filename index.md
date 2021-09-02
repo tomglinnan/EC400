@@ -5,6 +5,7 @@ This page is a list of notes I wrote teaching my online classes for EC400 Probab
 Please email me if you have any questions!
 
 **Test:** [Test](Test.pdf)
+Test2: [BHM](BHM.pdf)
 
 * **Class 1:** Random
 * **Class 2:**
