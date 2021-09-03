@@ -4,10 +4,10 @@ This page is a list of notes I wrote teaching my online classes for EC400 Probab
 
 Please email me if you have any questions!
 
-**Test:** [Test](Test.pdf)
+Link to the [LSE](https://www.lse.ac.uk) website to test
 
-* **Class 1:** Random
-* **Class 2:**
-* **Class 3:**
-* **Class 4:**
-* **Class 5:**
+* **Class 1:** tba
+* **Class 2:** tba
+* **Class 3:** tba
+* **Class 4:** tba
+* **Class 5:** tba
