@@ -7,7 +7,7 @@ Please email me if you have any questions!
 * **Class 1 - Foundations:** cdfs, pdfs, problem solving ideas, and why you should care about probability: [here](Class 1.pdf)
 	* An extension to the penalty shootout question - what's the probability of winning overall? [python script](Penalties.py)
 	* A presentation I made for one of the PhD reading groups at LSE introducing Bayesian estimation and applying it to Bayesian Hierarchical models - a tool to evaluate internal vs external validity (how far studies generalise to other situations) [here](Bayes_Hierarchical_Models_etc.pdf)
-* **Class 2:** tba
+* **Class 2 - Conditionals and Marginals:** Double integrals, the importance of drawing diagrams, and slices of mountains [here](Class 2.pdf)
 * **Class 3:** tba
 * **Class 4:** tba
 * **Class 5:** tba
